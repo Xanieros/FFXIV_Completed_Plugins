@@ -1,12 +1,12 @@
 [
   {
     "Author": "Xanieros",
-    "Name": "MatLevel",
+    "Name": "MatLevels",
     "Punchline": "Allows you to automatically see the max crafting level that uses a material.",
     "Description": "Adds text to the item tooltip for materials displaying the max level and crafter class for the recipe that uses the item.",
     "Changelog": "- First release",
     "IsHide": false,
-    "InternalName": "MatLevel",
+    "InternalName": "MatLevels",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": false,
