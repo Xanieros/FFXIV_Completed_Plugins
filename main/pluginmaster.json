@@ -15,9 +15,9 @@
     "TestingDalamudApiLevel": 13,
     "DownloadCount": 0,
     "LastUpdate": 1774541353,
-    "DownloadLinkInstall": "https://github.com/Xanieros/Mat_Levels/tree/master/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Xanieros/Mat_Levels/tree/master/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Xanieros/Mat_Levels/tree/master/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Xanieros/Mat_Levels/raw/refs/heads/master/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Xanieros/Mat_Levels/raw/refs/heads/master/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Xanieros/Mat_Levels/raw/refs/heads/master/releases/download/1.0.0.0/latest.zip",
     "SupportsProfiles": true
   }
 ]
